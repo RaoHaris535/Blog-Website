@@ -1,40 +1,51 @@
-# Blog-Website
-iCoder — a responsive blog frontend built with Bootstrap 5.3.7. My first GitHub project, made by following a tutorial and customizing as I learn .
+# 📰 iCoder – Responsive Blog Website Frontend
 
-iCoder – Blog Website Frontend
-This is a simple and responsive blog website built with Bootstrap 5.3.7.
-It’s my first project on GitHub and I made it while following a tutorial, adding a few tweaks along the way to practice what I’m learning.
+**iCoder** is a simple yet responsive blog website frontend built with **Bootstrap 5.3.7**.  
+This was my **first GitHub project**, created while following a tutorial and enhanced with my own customizations to practice and strengthen my HTML/CSS/Bootstrap skills.
 
-# Pages
-Home (index.html)
-Contains a dark navbar with a dropdown, search bar, login/signup modals, a fading carousel, and blog post cards.
+---
 
-About (about.html)
-Three featurette sections with images and placeholder text.
+## 📜 Project Overview
+- **Type:** Frontend (Static Website)
+- **Framework:** Bootstrap 5.3.7
+- **Pages:** Home, About, Contact
+- **Purpose:** Learning project to practice responsive design and Bootstrap components
+- **Status:** Completed (Beginner-friendly codebase)
 
-Contact (contact.html)
-A basic contact form with fields for name, number, and comments.
+---
 
-# Features
-Fully responsive layout using Bootstrap grid system
+## 🖥 Pages
+### **1. Home (`index.html`)**
+- Dark-themed responsive **navbar** with dropdown and search bar.
+- **Login** and **Sign Up** modals.
+- **Fading carousel** with captions and category buttons.
+- Blog post **cards** for content previews.
 
-Carousel with captions and category buttons
+### **2. About (`about.html`)**
+- Three **featurette sections** with images and placeholder text.
 
-Modal windows for Login and Sign Up
+### **3. Contact (`contact.html`)**
+- Basic **contact form** with:
+  - Name field
+  - Phone number field
+  - Comments/feedback textarea
 
-Card layout for blog previews
+---
 
-Simple footer with “Back to top” link
+## ✨ Features
+- Fully responsive layout using **Bootstrap grid system**.
+- **Carousel** with captions and category tags.
+- **Modal windows** for user authentication (Login/Sign Up).
+- **Card layout** for blog post previews.
+- Simple footer with “Back to top” link.
+- Clean, beginner-friendly HTML structure.
 
-Clean, beginner-friendly HTML
+---
 
-# What I Learned
-Setting up a responsive navbar and dropdown menu in Bootstrap
-
-Adding and customizing a carousel
-
-Using the grid system for layout
-
-Creating modals for forms
-
-Building and linking multiple HTML pages
+## 📚 What I Learned
+- Setting up a responsive **navbar** and dropdown menu with Bootstrap.
+- Adding and customizing a **carousel** with fade effects.
+- Using the **grid system** for responsive layouts.
+- Implementing **Bootstrap modals** for form-based popups.
+- Structuring and linking **multiple HTML pages** in a project.
+- Applying utility classes for quick styling adjustments.
